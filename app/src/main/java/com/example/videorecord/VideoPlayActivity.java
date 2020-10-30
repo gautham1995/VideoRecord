@@ -1,10 +1,9 @@
 package com.example.videorecord;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.net.Uri;
 import android.os.Bundle;
 import android.widget.VideoView;
+import androidx.appcompat.app.AppCompatActivity;
 
 public class VideoPlayActivity extends AppCompatActivity {
 
